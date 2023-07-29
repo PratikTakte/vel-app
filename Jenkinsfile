@@ -8,7 +8,7 @@ pipeline {
 		stages {
 			stage ('stage-1') {
 				steps {
-						echo "This is Master Pratik"
+						echo "This is 23Q1 Pratik"
 						
 					}
 				}
